@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parasonic27&label=Profile%20views&color=0e75b6&style=flat" alt="parasonic27" /> </p>
 
-- 𖤐 I’m currently working on [underc0vers](https://underc0vers.pt)
+- 𖤐 I’m currently working on [underc0vers](https://underc0vers.com)
 
-- 📫 How to reach me **parasonic@underc0vers.pt**
+- 📫 How to reach me **parasonic@underc0vers.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/dndparsonic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dndparsonic" height="30" width="40" /></a>
-<a href="https://discord.gg/underc0vers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="underc0vers" height="30" width="40" /></a>
+<a href="https://discord.gg/udc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="underc0vers" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
